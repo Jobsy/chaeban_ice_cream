@@ -5,6 +5,12 @@
 
 Boilerplate to create an embedded Shopify app made with Node, [Next.js](https://nextjs.org/), [Shopify-koa-auth](https://github.com/Shopify/quilt/tree/master/packages/koa-shopify-auth), [Polaris](https://github.com/Shopify/polaris-react), and [App Bridge React](https://shopify.dev/tools/app-bridge/react-components).
 
+### About Chaeban Ice Cream (test APP)
+
+This is a simple basic ReactJs App that utilises the free backend Shopify API and others.
+
+The App basically displays selected products to the screen
+
 ## Installation
 
 Using the [Shopify-App-CLI](https://github.com/Shopify/shopify-app-cli) run:
